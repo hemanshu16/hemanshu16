@@ -6,7 +6,7 @@ Hi, I'm Hemanshu Faldu
 </h1>
  <p align="center">
 	<a href="https://github.com/hemanshu16">
-		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+at+Dharmsinh+Desai+University;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+		<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=185DF7&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+at+Dharmsinh+Desai+University;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 	</a>
 </p>
 
