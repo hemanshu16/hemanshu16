@@ -10,13 +10,13 @@ Hi, I'm Hemanshu Faldu
 	</a>
 </p>
 
-<pre>
-- 💻 I am a competitive programmer at Leetcode, Codeforces, Codechef.
 
-- 🌱 I’m looking forward to collaborate on open source projects.
-  
-- ❓  Ask me about anything, I am happy to help.
-</pre>
+-  💻 I am a competitive programmer at Leetcode, Codeforces, Codechef.
+
+-  🌱 I’m looking forward to collaborate on open source projects.
+
+-  ❓  Ask me about anything, I am happy to help.
+
   
 
 <br/>  
