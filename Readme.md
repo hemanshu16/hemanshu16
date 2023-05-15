@@ -75,11 +75,10 @@ Hi, I'm Hemanshu Faldu
 
 <br/>  
 
-
-
-
-
-  
+## Visitor Counter  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hemanshu16&&style=flat-square" align="center" />
+</div>  
 
 
 
