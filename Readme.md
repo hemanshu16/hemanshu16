@@ -58,7 +58,7 @@ Hi, I'm Hemanshu Faldu
 ## Connect with me  
 <div align="left">
 <a href="https://linkedin.com/in/hemanshu-faldu-54a732207" target="blank"><img align="center" src="https://raw.githubusercontent.com/hemanshu16/hemanshu16/main/images/linked-in-alt.svg" alt="hemanshu-faldu-54a732207" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hemanshu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hemanshu02" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hemanshu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/hemanshu16/hemanshu16/main/images/codeforces-sponsored-by-ton.png" alt="hemanshu02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hemanshu16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemanshu16" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/hemanshu16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemanshu16" height="30" width="40" /></a>
 </div>  
