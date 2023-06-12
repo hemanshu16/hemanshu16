@@ -15,7 +15,7 @@ Hi, I'm Hemanshu Faldu
 
 -  🌱 I’m looking forward to collaborate on open source projects.
 
--  ❓  Ask me about anything, I am happy to help.
+-  ❓  Ask me about MERN Stack, Django, I am happy to help.
 
   
 
@@ -75,10 +75,6 @@ Hi, I'm Hemanshu Faldu
 
 <br/>  
 
-## Visitor Counter  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hemanshu16&&style=flat-square" align="center" />
-</div>  
 
 
 
