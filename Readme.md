@@ -11,12 +11,6 @@ Hi, I'm Hemanshu Faldu
 </p>
 
 
--  💻 I am a competitive programmer at Leetcode, Codeforces, Codechef.
-
--  🌱 I’m looking forward to collaborate on open source projects.
-
--  ❓  Ask me about Spring Boot, MERN Stack, Django, I am happy to help.
-
   
 
 <br/>  
